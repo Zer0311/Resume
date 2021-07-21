@@ -1,0 +1,94 @@
+body {
+  background-color: #DBE6FD;
+  align-items: center;
+  font-family:monospace;
+  text-align: center;
+}
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightGray;
+  border-width: 25px;
+  width: 50%;
+
+
+}
+img{
+filter:contrast(110%) grayscale(20%)saturate(120%);
+border-radius: 50%;
+max-width: 30%;
+max-height: 30%;
+
+
+}
+
+h1{
+  color: #1c34ba;
+  font-size: 80px;
+  font-family: serif;
+
+}
+
+h2, h3{
+color: #1c34ba;
+
+font-size: 25px;
+
+}
+
+table{
+  background-color: #DBE6FD;
+  width: 100%;
+  text-align: left;
+
+}
+
+p{
+  font-size: 20px;
+}
+
+a{
+font-size: 20px;
+}
+
+td{
+  padding: 10px;
+  font-size: 18px;
+  text-align: left;
+
+}
+
+th{
+  font-size: 20px;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.contactMe{
+  font-size: 20px;
+}
+
+ul{
+  font-size: 18px;
+}
+
+li{
+  padding-bottom: 8px;
+}
+
+/************CLASS SELECTORS***********/
+
+.jobBreaks{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightGray;
+  border-width: 10px;
+  width: 100%;
+}
+
+.education{
+  list-style-type: none; /* Remove bullets */
+padding: 0; /* Remove padding */
+margin: 0; /* Remove margins */
+}
