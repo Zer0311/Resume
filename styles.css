@@ -73,6 +73,9 @@ li{
   padding-bottom: 8px;
 }
 
+li:hover {
+  font-weight: bold;
+}
 /************CLASS SELECTORS***********/
 
 .jobBreaks{
